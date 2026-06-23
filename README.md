@@ -22,4 +22,3 @@ This project is a Public Health Service Database System developed using MySQL. I
 ## How to use
 1. Import the SQL file into MySQL
 2. Run queries to view results
-📌 STEP 5: Save it  
